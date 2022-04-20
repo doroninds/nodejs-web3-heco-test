@@ -10,6 +10,6 @@ POST http://localhost:3000/changeName
 content-type: application/json
 
 { 
-    "idx": 1, 
-    "name": "Jonny" 
+    "idx": 0, 
+    "name": "Anna" 
 }
